@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "enwIN74ZxwWXaa+4FnJwS5E7t8EsaiIhh/n0wijwjWhWfeOCvP5oZ+TsPahyZSulW8U7kp1u1XdXQTYAqdVwBg==",
+  "dgSpecHash": "SHii9eC/kAOvgt42+MO7bXzIOvMZEbxoWIAbuc3lyelFTpko4v5rMmr+bLUDHN0o3jwiQ+d6mbi5YILbic5Jng==",
   "success": true,
   "projectFilePath": "/Users/dotanaleonsilue/AkibaCode/Akiba/MarketSite/MarketSite.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/dotanaleonsilue/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/dotanaleonsilue/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/dotanaleonsilue/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/bin/Debug/net6.0/website.Shared.deps.json
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/bin/Debug/net6.0/website.Shared.dll
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/bin/Debug/net6.0/website.Shared.pdb
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.csproj.AssemblyReference.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.AssemblyInfoInputs.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.AssemblyInfo.cs
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.csproj.CoreCompileInputs.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.dll
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/refint/website.Shared.dll
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/website.Shared.pdb
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Shared/obj/Debug/net6.0/ref/website.Shared.dll
