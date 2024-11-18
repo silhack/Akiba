@@ -1,30 +1,41 @@
-﻿<Properties StartupConfiguration="{8234AFB8-E5AE-4C73-A49C-601C88E68D20}|Default">
+﻿<Properties StartupConfiguration="{1987AE71-FBB1-44AD-8E39-CA3101F91274}|website">
+  <MonoDevelop.Ide.ItemProperties.website.Client PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.website.Shared FirstBuild="True" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.website.Server FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MarketSite PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.website.Client FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MarketSite/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="website/Client/Pages/test.razor">
     <Files>
-      <File FileName="MarketSite/Pages/Index.cshtml.cs" />
-      <File FileName="MarketSite/Pages/Index.cshtml" />
-      <File FileName="MarketSite/Program.cs" Line="19" Column="18" />
+      <File FileName="website/Client/App.razor" Line="1" Column="1" />
+      <File FileName="website/Client/Program.cs" Line="12" Column="1" />
+      <File FileName="website/Client/Pages/Counter.razor" />
+      <File FileName="website/Client/Pages/FetchData.razor" />
+      <File FileName="website/Client/Pages/Index.razor" Line="7" Column="30" />
+      <File FileName="website/Client/Shared/MainLayout.razor" Line="22" Column="1" />
+      <File FileName="website/Client/Shared/NavMenu.razor" Line="21" Column="15" />
+      <File FileName="website/Client/Shared/SurveyPrompt.razor" />
+      <File FileName="website/Client/Shared/NavMenu.razor.css" />
+      <File FileName="website/Client/Shared/MainLayout.razor.css" />
+      <File FileName="website/Server/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="website/Client/Pages/test.razor" Line="20" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Akiba" expanded="True">
-            <Node name="MarketSite" expanded="True">
+            <Node name="website.Client">
               <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" expanded="True" />
+                <Node name="test.razor" selected="True" />
               </Node>
+              <Node name="Shared" expanded="True" />
             </Node>
+            <Node name="website.Shared" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
 </Properties>

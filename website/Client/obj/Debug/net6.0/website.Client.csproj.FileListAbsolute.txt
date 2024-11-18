@@ -1,3 +1,9 @@
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.csproj.AssemblyReference.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.AssemblyInfoInputs.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.AssemblyInfo.cs
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.csproj.CoreCompileInputs.cache
+/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.MvcApplicationPartsAssemblyInfo.cache
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/wwwroot/_framework/blazor.boot.json
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/wwwroot/_framework/dotnet.6.0.31.m1gaolbx22.js
@@ -602,12 +608,6 @@
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/icudt_no_CJK.dat
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/website.Shared.dll
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/bin/Debug/net6.0/website.Shared.pdb
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.csproj.AssemblyReference.cache
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.GeneratedMSBuildEditorConfig.editorconfig
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.AssemblyInfoInputs.cache
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.AssemblyInfo.cs
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.csproj.CoreCompileInputs.cache
-/Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/website.Client.MvcApplicationPartsAssemblyInfo.cache
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/build-gz/DFaBSg5V.gz
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/build-gz/1qpNzb0Q.gz
 /Users/dotanaleonsilue/AkibaCode/Akiba/website/Client/obj/Debug/net6.0/build-gz/YA70rtOp.gz
